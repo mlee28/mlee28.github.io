@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+	color: gray;
+	padding: 10px;
+	
+}
+
+#main {
+	float: left;
+}
+
+#instruction_r {
+	float: center;
+}
+
+#example_1 {
+	float: center;
+}
+
+#other_examples {
+	float: center;
+}

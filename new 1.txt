@@ -1,0 +1,7 @@
+1) D
+2) B
+3) C
+4) B
+5) A4 B2 C3 D1
+
+Extra Credit: My favorite lesson so far was playing around with the MNIST dataset using convolutional neural networks. The concept behind CNNs are pretty interesting and intiuitive for object recognition, and it was really interesting to see how accurate the model was and how tweaking the layers affected the accuracy. Also I had fun with my personal challenge of seeing which digits the AI misidentified. 
